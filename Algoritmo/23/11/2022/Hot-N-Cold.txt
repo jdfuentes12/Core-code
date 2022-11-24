@@ -1,0 +1,14 @@
+
+PASOS PARA CONVERTIR DE FARENHEIT A CELSIUS
+
+. Ingrese el valor de la temperatura en grados Celsius
+. Guardar la temperatura en una variable llamada celsius
+. Realizar la operación de conversión ((9/5) * C + 32)
+. Imprimir el resultado de la conversión
+
+
+
+. Ingrese el valor de la temperatura en grados Fahrenheit
+. Guardar la temperatura en una variable llamada fahrenheit
+. Realizar la operacion de conversion ((fahrenheit - 32) * 5/9)
+. Imprimir el resultado de la operacion
