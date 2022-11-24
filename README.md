@@ -2,3 +2,5 @@
 Curso impartido por Core Code
 
 Free Software Dev. Fundamentals
+
+  Jose Fuentes
